@@ -1,0 +1,7 @@
+{
+  "name": "uhd-server-status-plugin",
+  "author": "monthzifang",
+  "main": "awa.uhd.UhdServerStatusPlugin",
+  "description": "在每位玩家的右上角 HUD 区域显示基础服务器状态。",
+  "version": "1.0.0"
+}
